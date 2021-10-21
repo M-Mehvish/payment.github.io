@@ -58,7 +58,7 @@ header {
 	color: #333;
 }
 .pattern {
-    height: 4ovh;
+    height: 50vh;
     width: 100vw;    
     background-image: repeating-linear-gradient(
       32deg, 
